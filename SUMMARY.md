@@ -1,4 +1,4 @@
 # Summary
 
-* Rendering
+* [Rendering](topics/rendering.md)
 
