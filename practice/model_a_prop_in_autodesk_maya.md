@@ -12,12 +12,16 @@ In this assignment, you are a product designer for the premiere mega lamp compan
 3. In the scenes folder, locate the file called ```USERID-renderman_project.ma``` and replace 'USERID' with your user id.
 4. Double-click on the scene file to open Maya. Go to **File** -> **Set project**. Choose the project folder you just renamed in step 2.
 5. In the project file, you will see an example polygon model with RenderMan materials applied. If you do not have RenderMan, go to **Windows** -> **Settings/Preferences** -> **Plug-in Manager**.
-6. When ready, delete the example model and start modeling your own object.
+6. **ENABLE AUTOSAVE.** Go to **Maya** -> **Preferences** -> **Files/Projects** and check ***enable***. If you choose not to do this, you will undoubtedly lose work from frequent software crashes.
+6. When ready, delete the example model in the scene and start modeling your own design.
+  - It helps to sketch your idea on paper before you go into the modeling process.
+  - If you have little familiarity with polygonal modeling, please see the learning resources above. 
 7. Scene requirements
   - RenderMan lights (you can use the existing ones in the scene or create your own)
   - At least two RenderMan materials must be applied to your model in the scene. The PxrDisney material is a good starting point.
   - A final rendered image at 1080HD resolution or higher.
   - To reduce graininess of the final render, the Min. Samples in the Sampling tab under RenderMan Controls should be set to 32 or higher. Max. samples can be left as default 512.
+  - If you get stuck, please see the lynda.psu.edu learning resources linked above for in-depth instructions on fine-tuning renders.
 
 ### Deliverables
 1. Your Maya project folder: ```USERID-renderman-project/```
