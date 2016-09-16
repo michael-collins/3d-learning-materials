@@ -1,7 +1,7 @@
 # Model a prop in Autodesk Maya
 
 ### Assignment Brief:
-In this assignment, you are a product designer for the premiere mega lamp company, Schmapple Lights Inc. Schmapple Lights is wants its designers to produce never-before seen concept lamps. You're design objective is to design a concept lamp using polygonal modeling techniques and to render an image using RenderMan. You will produce at least one image shows your design in the best light.
+In this assignment, you are a product designer for the premiere mega lamp company, Schmapple Lights Inc. Schmapple Lights has asked its designers to produce never-before seen concept lamps. You're design objective is to design a concept lamp using polygonal modeling techniques and to render a concept image using RenderMan. You will produce at least one image that shows your design in the best light.
 
 ### Learning resources
 [Getting started with RenderMan for Maya](https://www.lynda.com/Renderman-tutorials/Welcome/442861/461592-4.html)
