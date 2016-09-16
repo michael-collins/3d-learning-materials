@@ -5,6 +5,7 @@ In this assignment, you are a product designer for the premiere mega lamp compan
 
 ### Learning resources
 [Getting started with RenderMan for Maya](https://www.lynda.com/Renderman-tutorials/Welcome/442861/461592-4.html)
+[Maya 2016 Essential Training](https://www.lynda.com/Maya-tutorials/Differences-between-NURBS-polygons/370380/413208-4.html)
 
 ### Steps to completion
 1. Download the project folder: [USERID-renderman-proj.zip](https://github.com/michael-collins/3d-learning-materials/blob/master/downloads/USERID-renderman-proj.zip?raw=true)
@@ -15,13 +16,13 @@ In this assignment, you are a product designer for the premiere mega lamp compan
 6. **ENABLE AUTOSAVE.** Go to **Maya** -> **Preferences** -> **Files/Projects** and check ***enable***. If you choose not to do this, you will undoubtedly lose work from frequent software crashes.
 6. When ready, delete the example model in the scene and start modeling your own design.
   - Note: It helps to sketch your idea on paper before you go into the modeling process.
-  - If you have little familiarity with polygonal modeling, please see the lynda.psu.edu learning resources above. 
+  - If you have little familiarity with polygonal modeling, please see the [Maya 2016 Essential Training](https://www.lynda.com/Maya-tutorials/Differences-between-NURBS-polygons/370380/413208-4.html) learning resources above. 
 7. Scene requirements
   - RenderMan lights (you can use the existing ones in the scene or create your own)
   - At least two RenderMan materials must be applied to your model in the scene. The PxrDisney material is a good starting point.
   - A final rendered image at 1080HD resolution or higher.
   - To reduce graininess of the final render, the Min. Samples in the Sampling tab under RenderMan Controls should be set to 32 or higher. Max. samples can be left as default 512.
-  - If you get stuck, please see the lynda.psu.edu learning resources linked above for in-depth instructions on fine-tuning renders.
+  - If you get stuck, please see the [Getting started with RenderMan for Maya](https://www.lynda.com/Renderman-tutorials/Welcome/442861/461592-4.html) learning resources linked above for in-depth instructions on fine-tuning renders.
 
 ### Deliverables
 1. Your Maya project folder: ```USERID-renderman-project/```
