@@ -31,4 +31,4 @@ In this assignment, you are a product designer for the premiere mega lamp compan
 1. Your Maya project folder: ```USERID-renderman-project/```
  - Scenes folder: ```USERID-renderman_project.ma```
  - Images folder: A single openEXR image called  ```USERID-lamp-render.exr```
-2. Compress the project folder and upload to canvas.
+2. Compress the project folder and upload to Canvas.
