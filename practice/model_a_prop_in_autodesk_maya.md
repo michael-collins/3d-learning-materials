@@ -28,7 +28,4 @@ In this assignment, you are a product designer for the premiere mega lamp compan
 9. **Optional:** Composite and color-grade your render with a custom background in Photoshop.
 
 ### Deliverables
-1. Your Maya project folder: ```USERID-renderman-project/```
- - Scenes folder: ```USERID-renderman_project.ma```
- - Images folder: A single openEXR image called  ```USERID-lamp-render.exr```
-2. Compress the project folder and upload to Canvas.
+1. Upload a single openEXR image called  ```USERID-lamp-render.exr``` to Canvas.
