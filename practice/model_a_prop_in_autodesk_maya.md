@@ -25,8 +25,8 @@ In this assignment, you are a product designer for the premiere mega lamp compan
   - The final rendered image must be at 1080HD resolution or higher. Please don't not render above 4k resolution for this assignment.
   - To reduce graininess of the final render, the Min. Samples in the Sampling tab under RenderMan Controls should be set to 32 or higher. Max. samples can be left as default 512.
   - If you get stuck, please see the [Getting started with RenderMan for Maya](https://www.lynda.com/Renderman-tutorials/Welcome/442861/461592-4.html) learning resources linked above for in-depth instructions on fine-tuning renders.
-9. **Optional:** Composite and color-grade your render with a custom background in Photoshop. You may save this as a JPG. To do this, change the **Mode** to 8-bit before saving.
+9. **Optional:** Composite and color-grade your render with a custom background in Photoshop. You may save this as a PNG. To do this, change the **Mode** to 8-bit before saving.
 
 ### Deliverables
 1. Upload an openEXR image or called  ```USERID-lamp-render.exr``` to Canvas.
-  - If you chose to create a composite Photoshop image in Step 9, please also upload the composite image as an 8-bit JPG.
+  - If you chose to create a composite Photoshop image in Step 9, please also upload the composite image as an 8-bit PNG.
