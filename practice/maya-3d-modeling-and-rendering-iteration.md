@@ -3,7 +3,7 @@
 ### Assignment Brief:
 In this assignment, you will interpret the feedback on your submission for last assignment. Feedback is not a judgment on you, rather a description, evaluation, analysis, and judgment of your work so that you may improve the work. You may get a wide range of feedback (often conflicting), and it is up to you to decide what is useful and what you will decide to ignore when making design decisions.
 
-Please use feedback and your own judgment to make iterative improvements to your model, lighting, and other technical aspects of your image.
+Please use feedback and your own judgment to make iterative improvements to your model, lighting, and other formal and technical aspects of your image.
 
 ### Learning resources
 - Polygonal Modeling: [Maya 2016 Essential Training](https://www.lynda.com/Maya-tutorials/Differences-between-NURBS-polygons/370380/413208-4.html)
