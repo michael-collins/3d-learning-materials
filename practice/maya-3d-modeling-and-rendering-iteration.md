@@ -10,7 +10,7 @@ Please use feedback and your own judgment to make iterative improvements to your
 - RenderMan: [Getting started with RenderMan for Maya](https://www.lynda.com/Renderman-tutorials/Welcome/442861/461592-4.html)
 
 ### Steps to completion
-1. Obtain feedback for your submission for the 3D rendering assignment. Your instructor will provide feedback virtually if you are unable to obtain other feedback.
+1. Obtain feedback for your submission for the 3D rendering assignment. Your instructor will provide feedback virtually in the event that you are unable to obtain other feedback.
 2. Iterate on your work from the last assignment and submit a new image based on feedback and your own judgment.
 ### Deliverables
 1. Upload an openEXR image or called  ```USERID-lamp-render-iteration.exr``` to Canvas.
