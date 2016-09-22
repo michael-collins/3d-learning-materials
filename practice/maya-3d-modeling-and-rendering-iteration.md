@@ -12,6 +12,7 @@ Please use feedback and your own judgment to make iterative improvements to your
 ### Steps to completion
 1. Obtain feedback for your submission for the 3D rendering assignment. Your instructor will provide feedback virtually in the event that you are unable to obtain other feedback.
 2. Iterate on your work from the last assignment and submit a new image based on feedback and your own judgment.
+
 ### Deliverables
 1. Upload an openEXR image or called  ```USERID-lamp-render-iteration.exr``` to Canvas.
   - If you chose to create a composite Photoshop image in Step 9, please also upload the composite image as an 8-bit PNG.
