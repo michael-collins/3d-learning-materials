@@ -15,4 +15,4 @@ Please use feedback and your own judgment to make iterative improvements to your
 
 ### Deliverables
 1. Upload an openEXR image or called  ```USERID-lamp-render-iteration.exr``` to Canvas.
-  - If you chose to create a composite Photoshop image in [Step 9 of the previous assignment](../practice/model_a_prop_in_autodesk_maya.md), please also upload the composite image as an 8-bit PNG.
+  - If you chose to create a composite Photoshop image as described in [Step 9 of the previous assignment](../practice/model_a_prop_in_autodesk_maya.md), please also upload the composite image as an 8-bit PNG.
