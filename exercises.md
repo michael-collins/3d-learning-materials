@@ -4,7 +4,7 @@ In this exercise, you will practice basic 3D modeling skills to model a simple o
 
 ## Learning resources
 
-* Watch: [Blender Essential Training tutorials 1-3](https://www.lynda.com/Blender-tutorials/Creating-mesh-primitives/87088/95364-4.html?org=psu.edu)
+* Blender: [Blender Essential Training tutorials 1-3](https://www.lynda.com/Blender-tutorials/Creating-mesh-primitives/87088/95364-4.html?org=psu.edu)
 
 ## Instructions
 
