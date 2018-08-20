@@ -10,7 +10,8 @@ In this exercise, you will practice basic 3D modeling skills to model a simple o
 
 1. Watch the tutorials in the learning resources.
 2. Use concepts from the tutorials to model a chair
-3. Upload a zip file of the blender model. 
+3. Upload a zip file of the blender model.
+   1. Naming: `Firstname_Lastname_01_modeling_beginner.zip`
 
 
 
