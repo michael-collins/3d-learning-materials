@@ -1,6 +1,6 @@
 # Weekly Schedule
 
-## Week 01: August 20 - 26
+## Week 01
 
 ### Tuesday
 
@@ -12,7 +12,7 @@
 
 1. Agenda
 
-## Week 02: August 27 - Sept 2
+## Week 02
 
 ### Tuesday:
 
@@ -22,7 +22,7 @@
 
 1. Agenda
 
-## Week 03: September 3 - Sept 9
+## Week 03
 
 ### Tuesday:
 
@@ -32,7 +32,7 @@
 
 1. Agenda
 
-## Week 04: September 10 - 16
+## Week 04
 
 ### Tuesday:
 
@@ -42,7 +42,7 @@
 
 1. Agenda
 
-## Week 05: September 17 - 23
+## Week 05
 
 ### Tuesday:
 
@@ -52,7 +52,7 @@
 
 1. Agenda
 
-## Week 06: September 24 - 30
+## Week 06
 
 ### Tuesday:
 
@@ -62,7 +62,7 @@
 
 1. Agenda
 
-## Week 07: October 1 - 7
+## Week 07
 
 ### Tuesday:
 
@@ -72,7 +72,7 @@
 
 1. Agenda
 
-## Week 08: October 8 - 14
+## Week 08
 
 ### Tuesday:
 
@@ -82,7 +82,7 @@
 
 1. Agenda
 
-## Week 09: October 15 - 21
+## Week 09
 
 ### Tuesday:
 
@@ -92,7 +92,7 @@
 
 1. Agenda
 
-## Week 10: October 22 - 28
+## Week 10
 
 ### Tuesday:
 
@@ -102,7 +102,7 @@
 
 1. Agenda
 
-## Week 11: October 29 - November 4
+## Week 11
 
 ### Tuesday:
 
@@ -112,7 +112,7 @@
 
 1. Agenda
 
-## Week 12: November 5 - 11
+## Week 12
 
 ### Tuesday:
 
@@ -122,7 +122,7 @@
 
 1. Agenda
 
-## Week 13: November 12 -18
+## Week 13
 
 ### Tuesday:
 
@@ -132,7 +132,7 @@
 
 1. Agenda
 
-## Week 14: November 26 - December 2
+## Week 14
 
 ### Tuesday:
 
@@ -142,7 +142,7 @@
 
 1. Agenda
 
-## Week 15: December 3 - 7
+## Week 15
 
 ### Tuesday:
 
